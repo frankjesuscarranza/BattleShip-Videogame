@@ -1,0 +1,62 @@
+# Sistema operativo
+########################
+# Archivos generados por Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Mac OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Archivos de compilación
+########################
+*.obj
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.idb
+*.lib
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.cache
+*.ilk
+*.log
+*.map
+*.pch
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.user
+*.unsuccessfulbuild
+*.vspscc
+*.vssscc
+
+# Directorios de salida
+########################
+bin/
+obj/
+
+# MonoGame / Content Pipeline
+########################
+*.xnb
+Content/bin/
+Content/obj/
+
+# Visual Studio Code
+########################
+.vscode/
+*.code-workspace
+
+# Archivos específicos de MonoGame
+########################
+PipelineCache/
